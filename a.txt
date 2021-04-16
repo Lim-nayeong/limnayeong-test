@@ -1,0 +1,5 @@
+퍼시스턴스 계층 - 뒤의 모델단 구축 / db작업
+
+비지니스 계층 : business / service / object - 프론트 처리업무
+
+jsp : 프레젠테이션 계층(layer) - view단 구축
